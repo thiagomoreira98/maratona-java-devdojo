@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.operadores;
+
+// Aula 8 - br.com.maratonajava.introducao.operadores.Operadores Logicos
 public class OperadoresLogicos {
     public static void main(String[] args) {
         // && (and)

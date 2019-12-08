@@ -2,20 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="154c7723-67a7-4126-99f9-0de7f6517d30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleFluxo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleFluxo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleFluxo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleFluxo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControleFluxo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioControleFluxo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ControleFluxo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/ControleFluxo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ImprimindoVariaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/ImprimindoVariaveis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OlaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OlaMundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/Operadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/Operadores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresAtribuicao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresAtribuicao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresComparacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresComparacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresLogicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/RelatorioPendencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/RelatorioPendencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleFluxo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/ImprimindoVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/OlaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/Operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresAtribuicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresComparacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresComparacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresLogicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RelatorioPendencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/RelatorioPendencia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +65,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Arrays2">
-    <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays1" />
-      <module name="MaratonaJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Arrays6">
     <configuration name="Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays2" />
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays2" />
       <module name="MaratonaJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleFluxo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleFluxo5" />
+    <configuration name="Arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays3" />
       <module name="MaratonaJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleFluxo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleFluxo6" />
+    <configuration name="Arrays4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays4" />
       <module name="MaratonaJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioControleFluxo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxo3" />
+    <configuration name="Arrays5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays5" />
+      <module name="MaratonaJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays6" />
       <module name="MaratonaJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays6" />
+        <item itemvalue="Application.Arrays5" />
+        <item itemvalue="Application.Arrays4" />
+        <item itemvalue="Application.Arrays3" />
         <item itemvalue="Application.Arrays2" />
-        <item itemvalue="Application.Arrays1" />
-        <item itemvalue="Application.ControleFluxo6" />
-        <item itemvalue="Application.ControleFluxo5" />
-        <item itemvalue="Application.ExercicioControleFluxo3" />
       </list>
     </recent_temporary>
   </component>
@@ -116,33 +134,53 @@
       <option name="presentableId" value="Default" />
       <updated>1575752720736</updated>
       <workItem from="1575752723184" duration="2970000" />
-      <workItem from="1575803346595" duration="4200000" />
+      <workItem from="1575803346595" duration="8669000" />
     </task>
+    <task id="LOCAL-00001" summary="Aula 20 -- Arrays part3">
+      <created>1575807691999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575807691999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula 20 -- Arrays part3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 20 -- Arrays part3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575752870565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575752870565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1575806948223">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1575807689894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575806948223" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1575806948223">
+    <state x="585" y="114" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575807689894" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1575849043752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575806948223" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1575806948223">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1575849043752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575806948223" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1575806948223">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1575849043752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575806948223" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1575849043752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575807693619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575807693619" />
   </component>
 </project>

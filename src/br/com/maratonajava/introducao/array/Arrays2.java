@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.array;
+
+// Aula 19 - Arrays parte 2
 public class Arrays2 {
     public static void main(String[] args) {
 

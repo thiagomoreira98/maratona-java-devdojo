@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.controleFluxo;
+
+// Aula 14 - Controle de fluxo parte 3 (RESOLUCAO EXERCICIO)
 public class ExercicioControleFluxo2 {
     public static void main(String[] args) {
         byte dia = 5;

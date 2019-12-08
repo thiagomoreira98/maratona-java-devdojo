@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.operadores;
+
+// Aula 9 - br.com.maratonajava.introducao.operadores.Operadores de atribuicao
 public class OperadoresAtribuicao {
     public static void main(String[] args) {
         // == -= += *= /= %=

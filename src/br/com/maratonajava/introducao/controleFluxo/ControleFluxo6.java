@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.controleFluxo;
+
+// Aula 17 - Controle de fluxo parte 6 (comando continue)
 public class ControleFluxo6 {
     public static void main(String[] args) {
 

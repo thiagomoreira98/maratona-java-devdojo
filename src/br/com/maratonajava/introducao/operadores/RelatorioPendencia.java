@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.operadores;
+
+// Aula 6 - Exercicios de tipos de variaveis
 public class RelatorioPendencia {
     public static void main(String[] args) {
         String nome = "Thiago Moreira";

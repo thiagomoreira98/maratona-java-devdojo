@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao;
+
+// Aula 5 - Tipo de variaveis
 public class ImprimindoVariaveis {
     public static void main(String[] args) {
         int idade = 10;

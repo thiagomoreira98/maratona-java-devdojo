@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.controleFluxo;
+
+// Aula 12 - Controle de fluxo parte 1 (RESOLUCAO DE EXERCICIO)
 public class ExercicioControleFluxo {
     public static void main(String[] args) {
         float salario = 10000f;

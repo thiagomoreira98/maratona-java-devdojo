@@ -1,3 +1,6 @@
+package br.com.maratonajava.introducao.operadores;
+
+// Aula 7 - br.com.maratonajava.introducao.operadores.Operadores
 public class Operadores {
     public static void main(String[] args) {
         int numero1 = 10;
