@@ -2,38 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="154c7723-67a7-4126-99f9-0de7f6517d30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/classes/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/classes/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/classes/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/test/CarroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/test/EstudanteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaoclasses/test/ProfessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaometodos/classes/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaometodos/classes/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaometodos/test/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaometodos/test/ParametrosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/javacore/introducaometodos/test/ProfessorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ControleFluxo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/ControleFluxo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ImprimindoVariaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/ImprimindoVariaveis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OlaMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OlaMundo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/Operadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/Operadores.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresAtribuicao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresAtribuicao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresComparacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresComparacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresLogicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/RelatorioPendencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaratonaJava/RelatorioPendencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/array/Arrays2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleFluxo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/ImprimindoVariaveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/OlaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperadoresAtribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresAtribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperadoresComparacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresComparacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperadoresLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/OperadoresLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RelatorioPendencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/operadores/RelatorioPendencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ControleFluxo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/ImprimindoVariaveis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OlaMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/Operadores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresAtribuicao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresComparacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/OperadoresLogicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaratonaJava/RelatorioPendencia.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,49 +53,84 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Arrays6">
-    <configuration name="Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays2" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.maratonajava.introducao.javacore.introducaometodos.classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProfessorTest (1)">
+    <configuration name="CalculadoraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.CalculadoraTest" />
       <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays3" />
+    <configuration name="CarroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.javacore.introducaoclasses.test.CarroTest" />
       <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.introducao.javacore.introducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays4" />
+    <configuration name="ParametrosTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.ParametrosTest" />
       <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays5" />
+    <configuration name="ProfessorTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.ProfessorTest" />
       <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.introducao.javacore.introducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrays6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.array.Arrays6" />
+    <configuration name="ProfessorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.introducao.javacore.introducaoclasses.test.ProfessorTest" />
       <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.introducao.javacore.introducaoclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arrays6" />
-        <item itemvalue="Application.Arrays5" />
-        <item itemvalue="Application.Arrays4" />
-        <item itemvalue="Application.Arrays3" />
-        <item itemvalue="Application.Arrays2" />
+        <item itemvalue="Application.ProfessorTest (1)" />
+        <item itemvalue="Application.ParametrosTest" />
+        <item itemvalue="Application.CalculadoraTest" />
+        <item itemvalue="Application.ProfessorTest" />
+        <item itemvalue="Application.CarroTest" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +158,7 @@
       <updated>1575752720736</updated>
       <workItem from="1575752723184" duration="2970000" />
       <workItem from="1575803346595" duration="8669000" />
+      <workItem from="1576169837018" duration="7420000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 20 -- Arrays part3">
       <created>1575807691999</created>
@@ -162,22 +186,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="114" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575807689894" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1575849043752">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576251475301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1575849043752">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475301" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576251475300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1575849043752">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475300" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576251475299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1575849043752">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475299" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576251475300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575849043752" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475300" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1575807693619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
