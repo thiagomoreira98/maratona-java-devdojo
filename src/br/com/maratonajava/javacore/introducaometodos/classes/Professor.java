@@ -1,5 +1,5 @@
 // Aula 31, 32 - Métodos com parâmetros tipo reference parte 1, 2
-package br.com.maratonajava.introducao.javacore.introducaometodos.classes;
+package br.com.maratonajava.javacore.introducaometodos.classes;
 
 public class Professor {
     public String nome;

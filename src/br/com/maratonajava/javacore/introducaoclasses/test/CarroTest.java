@@ -1,7 +1,7 @@
 // Aula 25 - Classes parte 2
-package br.com.maratonajava.introducao.javacore.introducaoclasses.test;
+package br.com.maratonajava.javacore.introducaoclasses.test;
 
-import br.com.maratonajava.introducao.javacore.introducaoclasses.classes.Carro;
+import br.com.maratonajava.javacore.introducaoclasses.classes.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

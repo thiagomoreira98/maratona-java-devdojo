@@ -1,7 +1,7 @@
 // Aula 24 - Classes parte 1
-package br.com.maratonajava.introducao.javacore.introducaoclasses.test;
+package br.com.maratonajava.javacore.introducaoclasses.test;
 
-import br.com.maratonajava.introducao.javacore.introducaoclasses.classes.Estudante;
+import br.com.maratonajava.javacore.introducaoclasses.classes.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

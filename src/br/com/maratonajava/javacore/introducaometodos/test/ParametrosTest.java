@@ -1,7 +1,7 @@
 // Aula 31 - Métodos com parâmetros tipo reference parte 01
-package br.com.maratonajava.introducao.javacore.introducaometodos.test;
+package br.com.maratonajava.javacore.introducaometodos.test;
 
-import br.com.maratonajava.introducao.javacore.introducaometodos.classes.Calculadora;
+import br.com.maratonajava.javacore.introducaometodos.classes.Calculadora;
 
 public class ParametrosTest {
     public static void main(String[] args) {

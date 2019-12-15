@@ -1,7 +1,7 @@
 // Aula 26 - Classes parte 2 (Resolucao exercicio)
-package br.com.maratonajava.introducao.javacore.introducaoclasses.test;
+package br.com.maratonajava.javacore.introducaoclasses.test;
 
-import br.com.maratonajava.introducao.javacore.introducaoclasses.classes.Professor;
+import br.com.maratonajava.javacore.introducaoclasses.classes.Professor;
 
 public class ProfessorTest {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // Aula 31, 32 - Métodos com parâmetros tipo reference parte 1, 2
-package br.com.maratonajava.introducao.javacore.introducaometodos.test;
+package br.com.maratonajava.javacore.introducaometodos.test;
 
-import br.com.maratonajava.introducao.javacore.introducaometodos.classes.Professor;
+import br.com.maratonajava.javacore.introducaometodos.classes.Professor;
 
 public class ProfessorTest {
     public static void main(String[] args) {

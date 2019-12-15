@@ -1,5 +1,5 @@
 // Aula 24 - Classes parte 1
-package br.com.maratonajava.introducao.javacore.introducaoclasses.classes;
+package br.com.maratonajava.javacore.introducaoclasses.classes;
 
 public class Estudante {
     public String nome;

@@ -1,5 +1,5 @@
 // Aula 27, 28, 29, 30 - Metodos parte 1, 2, 3, 4
-package br.com.maratonajava.introducao.javacore.introducaometodos.classes;
+package br.com.maratonajava.javacore.introducaometodos.classes;
 
 public class Calculadora {
     public void somaDoisNumeros() {
@@ -30,5 +30,27 @@ public class Calculadora {
         System.out.println("DENTRO DO METODO");
         System.out.println("num1: " + num1);
         System.out.println("num2: " + num2);
+    }
+
+    public void somaArray(int[] numeros) {
+        int soma = 0;
+
+        for (int num : numeros) {
+            soma += num;
+        }
+
+        System.out.println(soma);
+    }
+
+    // Aula 33 - Apenas um var Args por metodo, mais de um gera erro de compilacao
+    // var Args sempre por ultimo no metodo, gera erro de compilacao
+    public void somaVarArgs(int... numeros) {
+        int soma = 0;
+
+        for (int num : numeros) {
+            soma += num;
+        }
+
+        System.out.println(soma);
     }
 }

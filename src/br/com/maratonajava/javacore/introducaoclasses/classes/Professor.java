@@ -1,5 +1,5 @@
 // Aula 26 - Classes parte 2 (Resolucao exercicio)
-package br.com.maratonajava.introducao.javacore.introducaoclasses.classes;
+package br.com.maratonajava.javacore.introducaoclasses.classes;
 
 public class Professor {
     public String nome;
