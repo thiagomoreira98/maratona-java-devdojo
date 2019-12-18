@@ -1,4 +1,4 @@
-package br.com.maratonajava.introducao.controleFluxo;
+package br.com.maratonajava.introducao.controlefluxo;
 
 // Aula 15 - Controle de fluxo parte 4
 public class ControleFluxo4 {
