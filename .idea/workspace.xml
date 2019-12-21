@@ -2,62 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="154c7723-67a7-4126-99f9-0de7f6517d30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/Exercicio1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Departamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Local.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/classes/Seminario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/associacao/test/AssociacaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/classesabstratas/classes/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/classesabstratas/classes/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/classesabstratas/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/classesabstratas/classes/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/classesabstratas/test/FuncionarioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/enumeracao/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/enumeracao/classes/TipoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/enumeracao/test/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/runtimeexception/test/RuntimeExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/test/ErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/heranca/classes/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/heranca/classes/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/heranca/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/heranca/test/HerancaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/interfaces/classes/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/interfaces/classes/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/interfaces/classes/Transportavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/interfaces/classes/Tributavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/interfaces/test/ProdutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorestatico/classes/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorestatico/classes/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorestatico/test/CarroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorestatico/test/ClienteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorfinal/classes/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorfinal/classes/Comprador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/modificadorfinal/test/CarroTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/ArquivoDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/DatabaseDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/GenericDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/RelatorioPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/classes/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/test/DAOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/polimorfismo/test/PolimorfismoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/sobrescrita/classes/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/sobrescrita/test/PessoaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/classes/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/classes/Leitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/classes/Leitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/classes/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/test/CheckedExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/test/SobrescritaComExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/checkedexception/test/TryWithResourcesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/customexception/CustomExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/customexception/LoginInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/runtimeexception/test/MultiplesRuntimeExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ControleFluxo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ControleFluxo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ExercicioControleFluxo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ExercicioControleFluxo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controleFluxo/ExercicioControleFluxo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/introducao/controlefluxo/ExercicioControleFluxo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/runtimeexception/test/RuntimeExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/runtimeexception/test/RuntimeExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/test/ErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/maratonajava/javacore/exception/error/test/ErrorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +66,13 @@
       <recent name="br.com.maratonajava.introducao.javacore.introducaometodos.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimeExceptionTest">
-    <configuration name="DAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.polimorfismo.test.DAOTest" />
+  <component name="RunManager" selected="Application.CustomExceptionTest">
+    <configuration name="CheckedExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.exception.checkedexception.test.CheckedExceptionTest" />
       <module name="MaratonaJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.maratonajava.javacore.polimorfismo.test.*" />
+          <option name="PATTERN" value="br.com.maratonajava.javacore.exception.checkedexception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.exception.test.ErrorTest" />
+    <configuration name="CustomExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.exception.customexception.CustomExceptionTest" />
       <module name="MaratonaJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.maratonajava.javacore.exception.test.*" />
+          <option name="PATTERN" value="br.com.maratonajava.javacore.exception.customexception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolimorfismoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.polimorfismo.test.PolimorfismoTest" />
+    <configuration name="MultiplesRuntimeExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.exception.runtimeexception.test.MultiplesRuntimeExceptionTest" />
       <module name="MaratonaJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.maratonajava.javacore.polimorfismo.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProdutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.interfaces.test.ProdutoTest" />
-      <module name="MaratonaJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.maratonajava.javacore.interfaces.test.*" />
+          <option name="PATTERN" value="br.com.maratonajava.javacore.exception.runtimeexception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryWithResourcesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.maratonajava.javacore.exception.checkedexception.test.TryWithResourcesTest" />
+      <module name="MaratonaJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.maratonajava.javacore.exception.checkedexception.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomExceptionTest" />
+        <item itemvalue="Application.TryWithResourcesTest" />
+        <item itemvalue="Application.MultiplesRuntimeExceptionTest" />
+        <item itemvalue="Application.CheckedExceptionTest" />
         <item itemvalue="Application.RuntimeExceptionTest" />
-        <item itemvalue="Application.ErrorTest" />
-        <item itemvalue="Application.DAOTest" />
-        <item itemvalue="Application.PolimorfismoTest" />
-        <item itemvalue="Application.ProdutoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +171,10 @@
       <workItem from="1576606210413" duration="23000" />
       <workItem from="1576606653596" duration="366000" />
       <workItem from="1576607058340" duration="10791000" />
-      <workItem from="1576685872284" duration="10968000" />
+      <workItem from="1576685872284" duration="11095000" />
+      <workItem from="1576846753318" duration="24000" />
+      <workItem from="1576846921751" duration="3957000" />
+      <workItem from="1576933815529" duration="5670000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 20 -- Arrays part3">
       <created>1575807691999</created>
@@ -230,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576447307707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula 68">
+      <created>1576705326010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576705326010</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 20 -- Arrays part3" />
     <MESSAGE value="Aula 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 41" />
+    <MESSAGE value="Aula 68" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 68" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576605033879">
@@ -250,10 +218,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="599" y="207" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576607307045" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1576694549475">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1576940220014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576694549475" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576940220014" />
     <state x="590" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576606870979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -266,58 +234,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="641" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576609506428" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1576447303863">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1576705318339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576447303863" />
+    <state x="585" y="114" key="CommitChangelistDialog2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705318339" />
     <state x="761" y="329" key="FileChooserDialogImpl" timestamp="1576607169850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="329" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576607169850" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576705275922">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1576940001302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705275922" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576940001302" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475301" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576705275922">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1576940001302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705275922" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576940001302" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475300" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576705275922">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1576940001301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705275922" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576940001301" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475299" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576705275922">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1576940001302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705275922" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576940001302" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576251475300" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576689635040">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1576705406499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576689635040" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576689635040">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705406499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1576705406499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576689635040" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576689635040">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705406499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1576705406499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576689635040" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576689635040">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705406499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1576705406499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576689635040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705406499" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1576607182193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576607182193" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576447313956">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576705332216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576447313956" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576705332216" />
     <state x="661" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576606665914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -334,10 +302,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="140" key="new project wizard/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576605047481" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1576607221419">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1576935044664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576607221419" />
+    <state x="616" y="240" key="run.anything.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576935044664" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576604893481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
